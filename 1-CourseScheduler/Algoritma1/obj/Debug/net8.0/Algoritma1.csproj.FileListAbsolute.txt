@@ -1,0 +1,14 @@
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.AssemblyInfoInputs.cache
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.AssemblyInfo.cs
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\bin\Debug\net8.0\Algoritma1.exe
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\bin\Debug\net8.0\Algoritma1.deps.json
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\bin\Debug\net8.0\Algoritma1.runtimeconfig.json
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\bin\Debug\net8.0\Algoritma1.dll
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\bin\Debug\net8.0\Algoritma1.pdb
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.dll
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\refint\Algoritma1.dll
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.pdb
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\Algoritma1.genruntimeconfig.cache
+C:\Users\Alperen\source\repos\Algoritma1\Algoritma1\obj\Debug\net8.0\ref\Algoritma1.dll
